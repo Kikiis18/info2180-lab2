@@ -1,3 +1,3 @@
 # info2180-lab2
 
-This is Lab 2 for <Akio Fearon>
+This is Lab 2 for Akio Fearon
